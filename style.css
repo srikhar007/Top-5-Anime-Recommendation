@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(0, 247, 255, 0.323);
+}
+img{
+    height: 300px;
+    width: 500px;
+    border: 5PX SOLID black;
+}
+
+div{
+    height: 500px;
+    width: 1000px;
+}
+p{
+    color: purple;
+    text-align: left;
+    font-size: 14px;
+}
